@@ -1,0 +1,35 @@
+header {
+    height:20px;
+}
+
+
+.nav {
+    position: fixed;
+    top:0;
+    width: 99%;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: aquamarine;
+    padding: 8px 12px;
+
+}
+body {
+    margin:0;
+}
+
+.title {
+    font-size: 18px;
+    color:black;
+}
+.title i {
+    color:red;
+}
+
+.form-control {
+    width:400px;
+}
+
+.icons i{
+    padding: 8px 12px;
+}
